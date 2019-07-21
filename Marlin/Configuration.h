@@ -1696,7 +1696,7 @@
 // If you have a speaker that can produce tones, enable it here.
 // By default Marlin assumes you have a buzzer with a fixed frequency.
 //
-//#define SPEAKER
+#define BUZZER
 
 //
 // The duration and frequency for the UI feedback sound.
@@ -1705,8 +1705,8 @@
 // Note: Test audio output with the G-Code:
 //  M300 S<frequency Hz> P<duration ms>
 //
-//#define LCD_FEEDBACK_FREQUENCY_DURATION_MS 2
-//#define LCD_FEEDBACK_FREQUENCY_HZ 5000
+#define LCD_FEEDBACK_FREQUENCY_DURATION_MS 50
+#define LCD_FEEDBACK_FREQUENCY_HZ 2000
 
 //=============================================================================
 //======================== LCD / Controller Selection =========================
