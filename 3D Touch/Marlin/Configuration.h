@@ -500,9 +500,9 @@
  * heater. If your configuration is significantly different than this and you don't understand
  * the issues involved, don't use bed PID until someone else verifies that your hardware works.
  */
-#define PIDTEMPBED
+//#define PIDTEMPBED
 
-//#define BED_LIMIT_SWITCHING
+#define BED_LIMIT_SWITCHING
 
 /**
  * Max Bed Power
@@ -903,7 +903,7 @@
 #define Z_PROBE_OFFSET_FROM_EXTRUDER -1.76 // Z offset: -below +above  [the nozzle]
 
 // Certain types of probes need to stay away from edges
-#define MIN_PROBE_EDGE 2
+#define MIN_PROBE_EDGE 3
 
 // X and Y axis travel speed (mm/m) between probes
 #define XY_PROBE_SPEED 8000
