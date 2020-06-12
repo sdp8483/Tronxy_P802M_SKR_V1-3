@@ -13,3 +13,4 @@ Item                                                   | Notes
 [x end idler](https://github.com/gregsaun/bear_extruder_and_x_axis/blob/master/printed_parts/stl/common_to_all_versions/x_end_idler.stl)| 8mm linear rods will need to be shortened to fit this
 [x idler tensioner](https://github.com/gregsaun/bear_extruder_and_x_axis/blob/master/printed_parts/stl/common_to_all_versions/x_end_idler_tensioner.stl)| 
 [y belt tensioner](https://www.thingiverse.com/thing:3502543) | don't print the belt holder, this needs a modified
+[y motor mount](https://github.com/gregsaun/prusa_i3_bear_upgrade/blob/master/full_upgrade/for_mk3/printed_parts/stl/y_motor_mount.stl)|
