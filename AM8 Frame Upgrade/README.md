@@ -23,3 +23,4 @@ Item                                                   | Notes
 [Prusa Bear Extruder and X Axis](https://github.com/gregsaun/bear_extruder_and_x_axis)
 [Y-belt tensioner and Y-belt holder for Bear upgrade MK3/MK3S](https://www.thingiverse.com/thing:3502543)
 [Universal BTT SKR V1.3 & v1.4 Box](https://www.thingiverse.com/thing:4178177)
+[LM8UU Bearing Block 3d Model](https://grabcad.com/library/lm8uu-bearing-block-1)
