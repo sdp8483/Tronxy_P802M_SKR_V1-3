@@ -29,6 +29,8 @@ Item Number | Item | Quantity | Notes
 19 | [extruder cover](CAD/stl/extruder_cover.stl) | 1 | unmodified from Prusa Bear upgrade
 20 | [cable guide back A](CAD/stl/cable_guide_back_a.stl) | 1 | unmodified from Prusa Bear upgrade
 21 | [cable guide back B](CAD/stl/cable_guide_back_b.stl) | 1 | unmodified from Prusa Bear upgrade
+22 | [lcd support a modified](CAD/stl/lcd_support_a_modified.stl) | 1 | modified prusa bear part to fit extrusion profile and for LCD contrast pot
+23 | [lcd support b modified](CAD/stl/lcd_support_b_modified.stl) | 1 | modified prusa bear part to fit extrusion profile
 
 # Sources and Inspiration
 
