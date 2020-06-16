@@ -26,6 +26,9 @@ Item Number | Item | Quantity | Notes
 16 | [x carriage back](CAD/stl/x_carriage_back.stl) | 1 | unmodifed from Prusa Bear Upgrade.
 17 | [x carriage](CAD/stl/x_carriage.stl) | 1 | unmodifed from Prusa Bear Upgrade.
 18 | [hotend mount](CAD/stl/hotend_mount_modified.stl) | 1 | modified from Prusa Bear Upgrade for bowden setup
+19 | [extruder cover](CAD/stl/extruder_cover.stl) | 1 | unmodified from Prusa Bear upgrade
+20 | [cable guide back A](CAD/stl/cable_guide_back_a.stl) | 1 | unmodified from Prusa Bear upgrade
+21 | [cable guide back B](CAD/stl/cable_guide_back_b.stl) | 1 | unmodified from Prusa Bear upgrade
 
 # Sources and Inspiration
 
