@@ -22,7 +22,7 @@ Item Number | Item | Quantity | Notes
 12 | [y motor mount](CAD/stl/y_motor_mount_modified.stl) | 1 | modified prusa bear part to fit extrusion profile
 13 | [y idler bottom](CAD/stl/y_idler_bottom_modified.stl) | 1 | modified from Thingiverse thing:[3502543](https://www.thingiverse.com/thing:3502543) to fit extrusion profile
 14 | [y idler holder](CAD/stl/y_idler_holder_Bear_RHD.stp) | 1 | unmodified from Thingiverse thing:[3502543](https://www.thingiverse.com/thing:3502543)
-15 |[y belt holder](CAD/stl/y_belt_holder.stl) | 1 |
+15 | [y belt holder](CAD/stl/y_belt_holder.stl) | 1 |
 16 | [x carriage back](CAD/stl/x_carriage_back.stl) | 1 | unmodifed from Prusa Bear Upgrade.
 17 | [x carriage](CAD/stl/x_carriage.stl) | 1 | unmodifed from Prusa Bear Upgrade.
 18 | [hotend mount](CAD/stl/hotend_mount_modified.stl) | 1 | modified from Prusa Bear Upgrade for bowden setup
@@ -32,6 +32,13 @@ Item Number | Item | Quantity | Notes
 22 | [lcd support a modified](CAD/stl/lcd_support_a_modified.stl) | 1 | modified prusa bear part to fit extrusion profile and for LCD contrast pot
 23 | [lcd support b modified](CAD/stl/lcd_support_b_modified.stl) | 1 | modified prusa bear part to fit extrusion profile
 24 | [lcd cover](CAD/stl/lcd_cover.stl) | 1 | modified from prusa
+25 | [SKR V14 Body](CAD/stl/SKR_V14_Body.stl) | 1 | unmodified from Universal BTT SKR Box
+26 | [SKR V14 Cover](CAD/stl/SKR_V14_Cover.stl) | 1 | unmodified from Universal BTT SKR Box
+27 | [SKR Bear Long Anchor Modified](CAD/stl/Anchor_SKR_Bear_Long_modified.stl) | 1 | modified version of Universal BTT SKR mount, attaches enclosure to frame
+28 | [Bear MK3 Body](CAD/stl/Bear_MK3_Body.stl) | 1 | unmodified from Universal BTT SKR Box
+29 | [Bear MK3 Cover](CAD/stl/Bear_MK3_Cover.stl) | 1 | unmodified from Universal BTT SKR Box
+30 | [BTT Bottom Mount](CAD/stl/BTT_mount_bottom.stl) | 1 | used to mount Universal BTT SKR Box to the bottom rail
+
 
 # Sources and Inspiration
 
@@ -39,5 +46,6 @@ Item Number | Item | Quantity | Notes
 [Prusa Bear Upgrade](https://github.com/gregsaun/prusa_i3_bear_upgrade)  
 [Prusa Bear Extruder and X Axis](https://github.com/gregsaun/bear_extruder_and_x_axis)  
 [Y-belt tensioner and Y-belt holder for Bear upgrade MK3/MK3S](https://www.thingiverse.com/thing:3502543)  
-[Universal BTT SKR V1.3 & v1.4 Box](https://www.thingiverse.com/thing:4178177)  
+[Universal BTT SKR V1.3 & v1.4 Box](https://www.thingiverse.com/thing:4178177) 
+[Bear Ends and Raspberry Modules for Universal Boxes](https://www.thingiverse.com/thing:4210933)
 [LM8UU Bearing Block 3d Model](https://grabcad.com/library/lm8uu-bearing-block-1)  
