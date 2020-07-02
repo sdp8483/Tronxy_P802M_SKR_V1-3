@@ -49,3 +49,4 @@ Item Number | Item | Quantity | Notes
 [Universal BTT SKR V1.3 & v1.4 Box](https://www.thingiverse.com/thing:4178177) 
 [Bear Ends and Raspberry Modules for Universal Boxes](https://www.thingiverse.com/thing:4210933)
 [LM8UU Bearing Block 3d Model](https://grabcad.com/library/lm8uu-bearing-block-1)  
+[Power Supply 3d Model](https://grabcad.com/library/power-supply-s-240-12-1)
