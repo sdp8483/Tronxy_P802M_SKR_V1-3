@@ -51,3 +51,4 @@ Item Number | Item | Quantity | Notes
 [Bear Ends and Raspberry Modules for Universal Boxes](https://www.thingiverse.com/thing:4210933)
 [LM8UU Bearing Block 3d Model](https://grabcad.com/library/lm8uu-bearing-block-1)  
 [Power Supply 3d Model](https://grabcad.com/library/power-supply-s-240-12-1)
+[BL Touch 3d Model](https://grabcad.com/library/bl-touch-for-3d-printers-1)
