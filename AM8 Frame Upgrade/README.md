@@ -38,6 +38,7 @@ Item Number | Item | Quantity | Notes
 28 | [Bear MK3 Body](CAD/stl/Bear_MK3_Body.stl) | 1 | unmodified from Universal BTT SKR Box
 29 | [Bear MK3 Cover](CAD/stl/Bear_MK3_Cover.stl) | 1 | unmodified from Universal BTT SKR Box
 30 | [BTT Bottom Mount](CAD/stl/BTT_mount_bottom.stl) | 1 | used to mount Universal BTT SKR Box to the bottom rail
+31 | [PSU Bracket](CAD/stl/psu_bracket.stl) | 1 | bracket to mount top of power supply to frame
 
 
 # Sources and Inspiration
