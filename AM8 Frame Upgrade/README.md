@@ -8,15 +8,15 @@ The AM8 2040 extrusion profile is different from the Prusa Bear 2040 extrusion p
 
 Item Number | Item | Quantity | Notes
 ------------|------|----------|------
-1 | [AM8 to corner plate](CAD/stl/2_Top_Corner_Plate.stl) | 2 | from [AM8 Frame](https://www.thingiverse.com/thing:2263216)
-2 | [AM8 bottom tee plate](CAD/stl/2_Bottom_Tee_Plate.stl) | 2 | from [AM8 Frame](https://www.thingiverse.com/thing:2263216)
-3 | [AM8 bottom corner plate](CAD/stl/4_Bottom_Corner_Plate.stl) | 4 | from [AM8 Frame](https://www.thingiverse.com/thing:2263216)
-4 | [left z motor mount](CAD/stl/z_motor_mount_left.stl) | 1 | based on z motor mounts from full Prusa Bear Upgrade
-5 | [right z motor mount](CAD/stl/z_motor_mount_right.stl) | 1 | based on z motor mounts from full Prusa Bear Upgrade
-6 | [left z stabilizer](CAD/stl/z_stabilizer_left.stl) | 1 | holds z smooth rod and leadscrew, requires 608 bearing
-7 | [right z stabilizer](CAD/stl/z_stabilizer_right.stl) | 1 | holds z smooth rod and leadscrew, requires 608 bearing
-8 | [x motor mount](CAD/stl/x_end_motor.stl) | 1 | unmodifed from Prusa Bear Upgrade. Print the mk2.5s version if using limit switches. Either if using sensorless homing
-9 | [x end idler](CAD/stl/x_end_idler_modified.stl) | 1 | modified prusa bear part to fit extra long linear rods
+1  | [AM8 to corner plate](CAD/stl/2_Top_Corner_Plate.stl) | 2 | from [AM8 Frame](https://www.thingiverse.com/thing:2263216)
+2  | [AM8 bottom tee plate](CAD/stl/2_Bottom_Tee_Plate.stl) | 2 | from [AM8 Frame](https://www.thingiverse.com/thing:2263216)
+3  | [AM8 bottom corner plate](CAD/stl/4_Bottom_Corner_Plate.stl) | 4 | from [AM8 Frame](https://www.thingiverse.com/thing:2263216)
+4  | [left z motor mount](CAD/stl/z_motor_mount_left.stl) | 1 | based on z motor mounts from full Prusa Bear Upgrade
+5  | [right z motor mount](CAD/stl/z_motor_mount_right.stl) | 1 | based on z motor mounts from full Prusa Bear Upgrade
+6  | [left z stabilizer](CAD/stl/z_stabilizer_left.stl) | 1 | holds z smooth rod and leadscrew, requires 608 bearing
+7  | [right z stabilizer](CAD/stl/z_stabilizer_right.stl) | 1 | holds z smooth rod and leadscrew, requires 608 bearing
+8  | [x motor mount](CAD/stl/x_end_motor.stl) | 1 | unmodifed from Prusa Bear Upgrade. Print the mk2.5s version if using limit switches. Either if using sensorless homing
+9  | [x end idler](CAD/stl/x_end_idler_modified.stl) | 1 | modified prusa bear part to fit extra long linear rods
 10 | [x end idler tensioner](CAD/stl/x_end_idler_tensioner.stl) | 1 | unmodifed from Prusa Bear Upgrade.
 11 | [y rod holder](CAD/stl/y_rod_holder.stl) | 4 | 
 12 | [y motor mount](CAD/stl/y_motor_mount_modified.stl) | 1 | modified prusa bear part to fit extrusion profile
@@ -57,3 +57,4 @@ Item Number | Item | Quantity | Notes
 [BL Touch 3d Model](https://grabcad.com/library/bl-touch-for-3d-printers-1)
 [Bondtech BMG 3d Model](https://www.bondtech.se/downloads/STEP/BMG_Extruder_RH_STEP.zip)
 [Pancake Stepper Motor](https://grabcad.com/library/e3d-slimline-stepper-motor-0-9-stepping-angle-1)
+[NEMA 17 Stepper](https://grabcad.com/library/nema-17-28-60mm-stepper-motor-1)
