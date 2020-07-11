@@ -55,3 +55,5 @@ Item Number | Item | Quantity | Notes
 [LM8UU Bearing Block 3d Model](https://grabcad.com/library/lm8uu-bearing-block-1)  
 [Power Supply 3d Model](https://grabcad.com/library/power-supply-s-240-12-1)
 [BL Touch 3d Model](https://grabcad.com/library/bl-touch-for-3d-printers-1)
+[Bondtech BMG 3d Model](https://www.bondtech.se/downloads/STEP/BMG_Extruder_RH_STEP.zip)
+[Pancake Stepper Motor](https://grabcad.com/library/e3d-slimline-stepper-motor-0-9-stepping-angle-1)
