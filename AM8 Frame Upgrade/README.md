@@ -40,6 +40,8 @@ Item Number | Item | Quantity | Notes
 30 | [BTT Bottom Mount](CAD/stl/BTT_mount_bottom.stl) | 1 | used to mount Universal BTT SKR Box to the bottom rail
 31 | [PSU Bracket](CAD/stl/psu_bracket.stl) | 1 | bracket to mount top of power supply to frame
 32 | [PSU Cover](CAD/stl/psu_cover.stl) | 1 | cover and mount for bottom of power supply
+33 | [BL Touch Fan Mount](CAD/stl/bl_mount_fan.stl) | 1 | mounts BL Touch to layer fan, first bracket
+34 | [BL Touch Mount](CAD/stl/bl_touch_bracket.stl) | 1 | mounts BL touch to layer fan, second bracket
 
 
 # Sources and Inspiration
