@@ -42,6 +42,7 @@ Item Number | Item | Quantity | Notes
 32 | [PSU Cover](CAD/stl/psu_cover.stl) | 1 | cover and mount for bottom of power supply
 33 | [BL Touch Fan Mount](CAD/stl/bl_mount_fan.stl) | 1 | mounts BL Touch to layer fan, first bracket
 34 | [BL Touch Mount](CAD/stl/bl_touch_bracket.stl) | 1 | mounts BL touch to layer fan, second bracket
+35 | [Extruder Mount](CAD/stl/extruder_mount.stl) | 1 | bowden mount for bondtech BMG (clone) extruder and pancake stepper
 
 
 # Sources and Inspiration
