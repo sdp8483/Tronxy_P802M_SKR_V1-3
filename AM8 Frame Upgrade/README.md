@@ -38,12 +38,12 @@ Item Number | Item | Quantity | Notes
 28 | [Bear MK3 Body](CAD/stl/Bear_MK3_Body.stl) | 1 | unmodified from Universal BTT SKR Box
 29 | [Bear MK3 Cover](CAD/stl/Bear_MK3_Cover.stl) | 1 | unmodified from Universal BTT SKR Box
 30 | [BTT Bottom Mount](CAD/stl/BTT_mount_bottom.stl) | 1 | used to mount Universal BTT SKR Box to the bottom rail
-31 | [PSU Bracket](CAD/stl/psu_bracket.stl) | 1 | bracket to mount top of power supply to frame
-32 | [PSU Cover](CAD/stl/psu_cover.stl) | 1 | cover and mount for bottom of power supply
-33 | [BL Touch Fan Mount](CAD/stl/bl_mount_fan.stl) | 1 | mounts BL Touch to layer fan, first bracket
-34 | [BL Touch Mount](CAD/stl/bl_touch_bracket.stl) | 1 | mounts BL touch to layer fan, second bracket
-35 | [Extruder Mount](CAD/stl/extruder_mount.stl) | 1 | bowden mount for bondtech BMG (clone) extruder and pancake stepper
-
+31 | [PSU Top Bracket](CAD/stl/psu_bracket_top.stl) | 1 | bracket to mount top of power supply to frame
+32 | [PSU Bottom Bracket](CAD/stl/psu_bracket_bottom.stl) | 1 | bracket to mount bottom of power supply to frame
+33 | [PSU Cover](CAD/stl/psu_cover.stl) | 1 | cover and mount for bottom of power supply
+34 | [BL Touch Fan Mount](CAD/stl/bl_mount_fan.stl) | 1 | mounts BL Touch to layer fan, first bracket
+35 | [BL Touch Mount](CAD/stl/bl_touch_bracket.stl) | 1 | mounts BL touch to layer fan, second bracket
+36 | [Extruder Mount](CAD/stl/extruder_mount.stl) | 1 | bowden mount for bondtech BMG (clone) extruder and pancake stepper
 
 # Sources and Inspiration
 
