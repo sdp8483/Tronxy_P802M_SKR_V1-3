@@ -16,7 +16,7 @@ Item Number | Item | Quantity | Notes
 6  | [left z stabilizer](CAD/stl/z_stabilizer_left.stl) | 1 | holds z smooth rod and leadscrew, requires 608 bearing
 7  | [right z stabilizer](CAD/stl/z_stabilizer_right.stl) | 1 | holds z smooth rod and leadscrew, requires 608 bearing
 8  | [x motor mount](CAD/stl/x_end_motor.stl) | 1 | unmodifed from Prusa Bear Upgrade. Print the mk2.5s version if using limit switches. Either if using sensorless homing
-9  | [x end idler](CAD/stl/x_end_idler_modified.stl) | 1 | modified prusa bear part to fit extra long linear rods
+9  | [x end idler](CAD/stl/x_end_idler.stl) | 1 | unmodifed from Prusa Bear Upgrade, cut x rods to 405mm long
 10 | [x end idler tensioner](CAD/stl/x_end_idler_tensioner.stl) | 1 | unmodifed from Prusa Bear Upgrade.
 11 | [y rod holder](CAD/stl/y_rod_holder.stl) | 4 | 
 12 | [y motor mount](CAD/stl/y_motor_mount_modified.stl) | 1 | modified prusa bear part to fit extrusion profile
