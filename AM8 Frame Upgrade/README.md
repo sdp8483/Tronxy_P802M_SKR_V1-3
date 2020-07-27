@@ -45,6 +45,9 @@ Item Number | Item | Quantity | Notes
 35 | [BL Touch Mount](CAD/stl/bl_touch_bracket.stl) | 1 | mounts BL touch to layer fan, second bracket
 36 | [Extruder Mount](CAD/stl/extruder_mount.stl) | 1 | bowden mount for bondtech BMG (clone) extruder and pancake stepper
 
+# Extra
+I had issues with the Bondtech Clone extruder so scraped it and went with a genuine E3D Hemera. I followed the documentation found here: [bearmera](https://github.com/gregsaun/bear_extruder_and_x_axis/blob/master/optional_parts/bear_hemera/README.md#assembly-guide). Since I already had the bear x axis I only needed to print the Hemear specific mounts and nozzle.
+
 # Sources and Inspiration
 
 [AM8 Frame](https://www.thingiverse.com/thing:2263216)  
