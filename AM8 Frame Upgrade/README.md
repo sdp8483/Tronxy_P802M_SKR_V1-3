@@ -1,3 +1,6 @@
+
+![Tronxy AM8 FreeCAD Render](images/tronxy_am8_freecad.png)
+
 # Frame
 [AM8 Frame](https://www.thingiverse.com/thing:2263216): use for aluminum cut dimensions and printed frame support parts.
 Follow the [AM8 Build guide](https://www.thingiverse.com/download:3592429) but substitute the modified parts below for the original AM8 printed parts.
